@@ -1,5 +1,5 @@
 {
-  "name": "capacitor",
+  "name": "@benklein10/capacitor",
   "private": true,
   "workspaces": [
     "android",
