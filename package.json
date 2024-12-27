@@ -42,5 +42,11 @@
     "semver": "^7.3.7",
     "swiftlint": "^2.0.0",
     "tar": "^6.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenKlein10/capacitor.git"
+  },
+  "author": "benklein10",
+  "homepage": "https://github.com/BenKlein10/capacitor#readme"
 }
