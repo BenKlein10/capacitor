@@ -1,5 +1,6 @@
 {
   "name": "@benklein10/capacitor",
+  "version": "7.0.1",
   "workspaces": [
     "android",
     "ios",
