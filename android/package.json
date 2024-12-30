@@ -1,13 +1,13 @@
 {
-  "name": "@capacitor/android",
-  "version": "7.0.0-rc.0",
+  "name": "@benklein10/capacitor-android",
+  "version": "7.0.1",
   "description": "Capacitor: Cross-platform apps with JavaScript and the web",
-  "homepage": "https://capacitorjs.com",
+  "homepage": "https://github.com/BenKlein10/capacitor#readme",
   "author": "Ionic Team <hi@ionic.io> (https://ionic.io)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor.git"
+    "url": "git+https://github.com/BenKlein10/capacitor.git"
   },
   "bugs": {
     "url": "https://github.com/ionic-team/capacitor/issues"
